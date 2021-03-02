@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Welcome extends Component {
   render() {
     return (
-   <section>
+   <section class="welcome-section">
     <div class="text-center mb-5">
       <img src="/img/welcome.png" class="m-auto width-30-p" alt="welcome" />
       <p class="m-4 color-text font-w-300">Register now and secure your spot on top of your category</p>

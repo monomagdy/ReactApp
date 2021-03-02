@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Contact extends Component {
   render() {
     return (
-      <section class="container d-flex flex-column flex-lg-row justify-content-lg-between mt-5">
+      <section class="container d-flex flex-column flex-lg-row justify-content-lg-between mt-5 contact-section">
     <div class="col-12 col-lg-4 mt-5">
          <h5 class="mt-5 font-w-900 font-24">Contact</h5>
          <h5  class="border-after font-w-700 font-24">info@inploy.me</h5>

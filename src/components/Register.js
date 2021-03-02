@@ -4,7 +4,7 @@ import { Button,Dropdown,ButtonGroup } from 'react-bootstrap';
 class Register extends Component {
   render() {
     return (
-  <section class="container d-flex flex-column flex-lg-row justify-content-lg-between">
+  <section class="container d-flex flex-column flex-lg-row justify-content-lg-between register-section">
 <div class="col-lg-6 col-12">
 <h4 class="color-main font-w-700 font-15 mb-3 ml-2">2000+ Service Providers on board</h4>
 <img class="cards" src="/img/cards.png" alt="cards"/>

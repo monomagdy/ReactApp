@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class Stories extends Component {
   render() {
     return (
-<section>
+<section class="stories-section">
 <div class="container d-flex flex-column flex-lg-row justify-content-lg-center mb-5 mt-5 rectangular">
 <div class="card custom-card m-4">
   <div class="card-body">
